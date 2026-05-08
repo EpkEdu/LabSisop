@@ -1,0 +1,1 @@
+savedcmd_/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/pubsub/pubsub.mod := printf '%s\n'   pubsub.o | awk '!x[$$0]++ { print("/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/pubsub/"$$0) }' > /workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/pubsub/pubsub.mod

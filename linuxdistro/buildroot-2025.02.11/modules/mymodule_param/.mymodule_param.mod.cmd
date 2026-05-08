@@ -1,0 +1,1 @@
+savedcmd_/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/mymodule_param/mymodule_param.mod := printf '%s\n'   mymodule_param.o | awk '!x[$$0]++ { print("/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/mymodule_param/"$$0) }' > /workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/mymodule_param/mymodule_param.mod

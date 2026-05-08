@@ -1,0 +1,1 @@
+savedcmd_/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/procdriver/procdriver.mod := printf '%s\n'   procdriver.o | awk '!x[$$0]++ { print("/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/procdriver/"$$0) }' > /workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/procdriver/procdriver.mod

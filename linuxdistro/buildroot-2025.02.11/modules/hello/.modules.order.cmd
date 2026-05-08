@@ -1,0 +1,1 @@
+savedcmd_/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/hello/modules.order := {   echo /workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/hello/khello.o; :; } > /workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/modules/hello/modules.order

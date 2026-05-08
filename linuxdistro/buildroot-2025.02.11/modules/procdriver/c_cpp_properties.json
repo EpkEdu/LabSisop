@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Kernel",
+      "compilerPath": "/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/output/host/bin/i686-buildroot-linux-gnu-gcc",
+      "intelliSenseMode": "linux-gcc-x86",
+      "cStandard": "gnu11",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/output/build/linux-6.12.27/include",
+        "/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/output/build/linux-6.12.27/arch/x86/include",
+        "/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/output/build/linux-6.12.27/include/uapi",
+        "/workspaces/codespaces-blank/linuxdistro/buildroot-2025.02.11/output/build/linux-6.12.27/include/generated"
+      ],
+      "defines": [
+        "__KERNEL__",
+        "MODULE"
+      ]
+    }
+  ],
+  "version": 4
+}
